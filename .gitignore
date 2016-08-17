@@ -1,0 +1,14 @@
+*.py[cod]
+
+# Various common editor backups
+*.orig
+.*.swp
+
+# Installer logs
+pip-log.txt
+
+# some mac thing
+.DS_Store
+
+# PyCharm
+.idea
